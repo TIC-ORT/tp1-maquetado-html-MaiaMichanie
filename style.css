@@ -11,16 +11,6 @@
     height: 7vh;
     width: 30vw;
 }
-.cuadrado1
-{
-    background-color: rgb(59, 59, 59);
-    margin-top: 10vh;
-    margin-bottom: 75vh;
-    margin-left: 30vw;
-    margin-right: 25vw;
-    height: 7vh;
-    width: 5vw;
-}
 .buscador
 {
     background-color: rgb(255, 255, 255);
@@ -31,4 +21,58 @@
     height: 4vh;
     width: 25vw;
 }
+.cuadrado1
+{
+    background-color: rgb(59, 59, 59);
+    margin-top: 10vh;
+    margin-bottom: 75vh;
+    margin-left: 30vw;
+    margin-right: 25vw;
+    height: 7vh;
+    width: 5vw;
+}
+.lineagris1
+{
+    background-color: rgb(196, 196, 196);
+    margin-top: 40vh;
+    margin-bottom: 60vh;
+    margin-left: 15vw;
+    margin-right: 75vw;
+    height: 3vh;
+    width: 15vw;
+}
+.lineagris2
+{
+    background-color: rgb(196, 196, 196);
+    margin-top: 40vh;
+    margin-bottom: 60vh;
+    margin-left: 20vw;
+    margin-right: 70vw;
+    height: 3vh;
+    width: 15vw;
+}
+.lineagris3
+{
+    background-color: rgb(196, 196, 196);
+    margin-top: 40vh;
+    margin-bottom: 60vh;
+    margin-left: 25vw;
+    margin-right: 75vw;
+    height: 3vh;
+    width: 15vw;
+}
+.lineagris4
+{
+    background-color: rgb(196, 196, 196);
+    margin-top: 40vh;
+    margin-bottom: 60vh;
+    margin-left: 30vw;
+    margin-right: 60vw;
+    height: 3vh;
+    width: 15vw;
+}
+
+
+
+
 
